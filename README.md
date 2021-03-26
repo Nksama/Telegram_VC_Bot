@@ -39,7 +39,9 @@ $ python3 main.py
 #### Generate String session [IMPORTANT]
 
 Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
-
+Or use 
+https://github.com/keselekpermen69/string_session
+And select p
 
 ```sh
 $ pip3 install pyrogram TgCrypto
